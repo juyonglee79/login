@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            var passwd = window.prompt("비밀번호를 입력하세요.");
+            
+            if (passwd === "1234") {
+                location.href = "http://info.namedmootul.ml/worldclasswoooman/";
+                alert("로그인에 성공했습니다. 오우진 왕자님 환영합니다!");
+            }
+        </script>
+    <h1></h1>
+    </body>
+</html>
